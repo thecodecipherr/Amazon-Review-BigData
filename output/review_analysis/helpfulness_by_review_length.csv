@@ -1,0 +1,6 @@
+﻿review_length_category,review_count,average_helpful_votes,average_rating
+Very Short (<50),759961,0.17,4.55
+Short (50-199),1207095,0.49,4.26
+Long (500-999),236643,3.44,4.01
+Medium (200-499),670354,1.41,4.04
+Very Long (1000+),106949,8.49,4.08

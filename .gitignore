@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Dataset
+data/*.json
+data/*.jsonl
+data/*.csv
+data/*.parquet
+
+# Spark output
+output/*
+!output/README.md
+
+# Generated charts
+charts/*
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
